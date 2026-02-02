@@ -180,3 +180,6 @@ io = socketIo(server, {
 알림 설정 포함 항목: `metric` (이름), `threshold` (숫자 값), `duration` (초), `enabled` (불린)
 
 알림은 브라우저 알림 또는 이메일을 통해 전달될 수 있습니다 (구현에 따라 다름).
+## 관련 문서
+- **[작업 실행 가이드](./skills.md)**: 실행 가능한 작업 목록
+- [README](./README.md): 프로젝트 소개
