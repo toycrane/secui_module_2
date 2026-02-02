@@ -183,3 +183,5 @@ io = socketIo(server, {
 ## 관련 문서
 - **[작업 실행 가이드](./skills.md)**: 실행 가능한 작업 목록
 - [README](./README.md): 프로젝트 소개
+
+
